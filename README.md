@@ -1,2 +1,2 @@
 # README #
-# By Bennie #
+# By John #
